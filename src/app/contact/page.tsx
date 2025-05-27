@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <section className="p-6 max-w-2xl mx-auto">
+    <section className="p-6 min-h-screen max-w-2xl mx-auto">
       <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
       <form
         action="https://formsubmit.co/YOUR_EMAIL@gmail.com"
